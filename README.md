@@ -33,11 +33,3 @@
 - **CSS/SASS**: Estilos da interface.
 - **JavaScript**: Interatividade e manipulação da lógica da aplicação.
 
-## Como Contribuir
-
-Para colaborar com o projeto, siga estas etapas:
-
-1. **Clone o repositório**:
-   ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DA_PASTA>
